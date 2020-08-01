@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ### I'm Josh Maxwell
-> Improving security w/ quality software (C++/Python). Husband, Father, Latter-day Saint, Knowledge addict. Hobbies: Coding, Game Dev, Mtn Biking, TTRPGs.  
-> He/Him.  
+> Improving security w/ quality software (C++/Python). Husband, Father, Latter-day Saint, Knowledge addict. Hobbies: Coding, Game Dev, Mtn Biking, TTRPGs. He/Him.  
 
 ---
 
